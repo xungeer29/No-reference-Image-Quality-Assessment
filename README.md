@@ -1,7 +1,13 @@
 # 无参考图像质量评价
 
-知乎上一篇关于无参考图像质量评估的综述：[图像质量评估综述](https://zhuanlan.zhihu.com/p/32553977),
-作者：涂必超，计算机视觉工程师，美图云视觉技术部门。
+相关资料：
+* 知乎上一篇关于无参考图像质量评估的综述：[图像质量评估综述](https://zhuanlan.zhihu.com/p/32553977),
+  作者：涂必超，计算机视觉工程师，美图云视觉技术部门。
+* [BIAQ](https://github.com/HuiZeng/BIQA_Toolbox)
+* [NR-IQA-CNN](https://github.com/Adnan1011/NR-IQA-CNN)
+* Google [NIMA](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1709.05424.pdf): 
+  可以挑选出具有美感的高质量图像
+* 一篇[CSDN](https://blog.csdn.net/yjbkaoyan/article/details/78550148)
 
 ## RankIQA
 ### 简介
